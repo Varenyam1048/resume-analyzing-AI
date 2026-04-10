@@ -1,0 +1,5 @@
+ipywidgets
+ipython
+pdfminer.six
+nltk
+scikit-learn
